@@ -1,7 +1,7 @@
 <h1 align="center">selam ben uzaylı</h1>
-<h3 align="center">ben Bera evdekisiyim</h3>
-<h4 align="center">daha çok python hakkında atcam</h4>h4>
-<h4 align="center">duydunmu< /h4>h4>
+<h3 align="center">ben Beranın evdekisiyim</h3>
+<h4 align="center">daha çok python hakkında atcam</h4>
+<h5 align="center">duydunmu</h5>
 <center>
 <br>
 <!--
